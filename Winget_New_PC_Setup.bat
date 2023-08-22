@@ -1,5 +1,6 @@
 REM winget upgrade --all --include-unknown --silent --force
 
+
 @REM Languages, Runtime, Dev
 :: winget install EclipseAdoptium.Temurin.20.JDK --silent
 :: winget install Python.Python.3.12 --silent
@@ -28,6 +29,7 @@ REM winget upgrade --all --include-unknown --silent --force
 :: winget install 9PF4KZ2VN4W9 --accept-package-agreements --silent &@REM TranslucentTB
 :: winget install RamenSoftware.Windhawk --silent
 :: winget install Microsoft.WindowsTerminal --silent
+:: winget install Chocolatey.Chocolatey --silent
 
 @REM Audio, Video, Image
 :: winget install GIMP.GIMP --silent
