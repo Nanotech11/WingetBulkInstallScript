@@ -17,7 +17,7 @@ REM winget upgrade --all --include-unknown --silent --force
 :: winget install 7zip.7zip --silent
 :: winget install Git.Git --silent
 :: winget install StefanSundin.Superf4 --silent
-:: winget install Skillbrains.Lightshot --silent
+:: winget install Flameshot.Flameshot --silent
 :: winget install voidtools.Everything --silent
 :: winget install schollz.croc --silent
 :: winget install AntibodySoftware.WizTree --silent
