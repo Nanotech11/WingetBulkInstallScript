@@ -31,6 +31,7 @@ REM winget upgrade --all --include-unknown --silent --force
 :: winget install Microsoft.WindowsTerminal --silent
 :: winget install Chocolatey.Chocolatey --silent
 :: winget install Klocman.BulkCrapUninstaller --silent
+:: winget install TechPowerUp.NVCleanstall --silent
 
 @REM Audio, Video, Image
 :: winget install GIMP.GIMP --silent
