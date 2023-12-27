@@ -30,6 +30,7 @@ REM winget upgrade --all --include-unknown --silent --force
 :: winget install RamenSoftware.Windhawk --silent
 :: winget install Microsoft.WindowsTerminal --silent
 :: winget install Chocolatey.Chocolatey --silent
+:: winget install Klocman.BulkCrapUninstaller --silent
 
 @REM Audio, Video, Image
 :: winget install GIMP.GIMP --silent
