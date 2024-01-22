@@ -5,7 +5,7 @@ REM winget upgrade --all --include-unknown --silent --force
 :: winget install EclipseAdoptium.Temurin.20.JDK --silent
 :: winget install Python.Python.3.12 --silent
 :: winget install Microsoft.DirectX --silent
-:: winget install CondaForge.Mambaforge --silent
+:: winget install CondaForge.Miniforge3 --silent
 :: winget install MSYS2.MSYS2 --silent
 :: winget install Cygwin.Cygwin --silent
 
