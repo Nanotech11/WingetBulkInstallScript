@@ -48,6 +48,7 @@ REM winget upgrade --all --include-unknown --silent --force
 :: winget install Gyan.FFmpeg --silent
 
 @REM Document Editing
+:: winget install QPDF.QPDF --silent
 :: winget install Microsoft.Office --silent
 :: winget install TheDocumentFoundation.LibreOffice --silent
 :: winget install Notepad++.Notepad++ --silent
